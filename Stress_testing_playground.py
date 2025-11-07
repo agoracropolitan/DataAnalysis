@@ -1,3 +1,14 @@
+#📘 Qué hace este script:
+#
+#✅ Define un modelo simple de PD como función del desempleo y el PIB.
+#✅ Evalúa cómo cambia la PD si esas variables suben o bajan.
+#✅ Muestra dos gráficos:
+
+#PD vs desempleo
+
+#PD vs PIB
+#✅ Genera una tabla con la sensibilidad relativa, mostrando cuánto cambia la PD ante ±10% de variación.
+
 # ==========================================================
 # 🔹 ANÁLISIS DE SENSIBILIDAD A VARIABLES CRÍTICAS
 # ==========================================================
